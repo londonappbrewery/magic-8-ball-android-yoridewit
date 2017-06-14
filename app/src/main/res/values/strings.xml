@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">Make everyday decision easier!</string>
+    <string name="buttonAsk">Ask</string>
+    <string name="answerNo">No</string>
+    <string name="answerYes">Yes</string>
+    <string name="answerNever">Never!</string>
+    <string name="answerMaybe">Maybe</string>
+    <string name="answerAlways">Always</string>
+    <string name="answerOfCourse">Of Course!</string>
 </resources>
